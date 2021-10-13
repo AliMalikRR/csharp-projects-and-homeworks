@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alima\\source\\repos\\SP week 3 homework\\SP week 3 homework\\SP week 3 homework.csproj",
+      "projectUniqueName": "C:\\csharp-projects-and-homeworks\\SP week 3 homework\\SP week 3 homework\\SP week 3 homework.csproj",
       "projectName": "SP week 3 homework",
-      "projectPath": "C:\\Users\\Alima\\source\\repos\\SP week 3 homework\\SP week 3 homework\\SP week 3 homework.csproj",
+      "projectPath": "C:\\csharp-projects-and-homeworks\\SP week 3 homework\\SP week 3 homework\\SP week 3 homework.csproj",
       "packagesPath": "C:\\Users\\Alima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alima\\source\\repos\\SP week 3 homework\\SP week 3 homework\\obj\\",
+      "outputPath": "C:\\csharp-projects-and-homeworks\\SP week 3 homework\\SP week 3 homework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alima\\AppData\\Roaming\\NuGet\\NuGet.Config",
