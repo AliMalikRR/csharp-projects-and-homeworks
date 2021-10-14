@@ -1,0 +1,13 @@
+C:\Users\Alima\Documents\GitHub\csharp-projects-and-homeworks\SP week 3 homework\SP week 3 homework\bin\Debug\netcoreapp3.1\SP week 3 homework.exe
+C:\Users\Alima\Documents\GitHub\csharp-projects-and-homeworks\SP week 3 homework\SP week 3 homework\bin\Debug\netcoreapp3.1\SP week 3 homework.deps.json
+C:\Users\Alima\Documents\GitHub\csharp-projects-and-homeworks\SP week 3 homework\SP week 3 homework\bin\Debug\netcoreapp3.1\SP week 3 homework.runtimeconfig.json
+C:\Users\Alima\Documents\GitHub\csharp-projects-and-homeworks\SP week 3 homework\SP week 3 homework\bin\Debug\netcoreapp3.1\SP week 3 homework.runtimeconfig.dev.json
+C:\Users\Alima\Documents\GitHub\csharp-projects-and-homeworks\SP week 3 homework\SP week 3 homework\bin\Debug\netcoreapp3.1\SP week 3 homework.dll
+C:\Users\Alima\Documents\GitHub\csharp-projects-and-homeworks\SP week 3 homework\SP week 3 homework\bin\Debug\netcoreapp3.1\SP week 3 homework.pdb
+C:\Users\Alima\Documents\GitHub\csharp-projects-and-homeworks\SP week 3 homework\SP week 3 homework\obj\Debug\netcoreapp3.1\SP week 3 homework.csprojAssemblyReference.cache
+C:\Users\Alima\Documents\GitHub\csharp-projects-and-homeworks\SP week 3 homework\SP week 3 homework\obj\Debug\netcoreapp3.1\SP week 3 homework.AssemblyInfoInputs.cache
+C:\Users\Alima\Documents\GitHub\csharp-projects-and-homeworks\SP week 3 homework\SP week 3 homework\obj\Debug\netcoreapp3.1\SP week 3 homework.AssemblyInfo.cs
+C:\Users\Alima\Documents\GitHub\csharp-projects-and-homeworks\SP week 3 homework\SP week 3 homework\obj\Debug\netcoreapp3.1\SP week 3 homework.csproj.CoreCompileInputs.cache
+C:\Users\Alima\Documents\GitHub\csharp-projects-and-homeworks\SP week 3 homework\SP week 3 homework\obj\Debug\netcoreapp3.1\SP week 3 homework.dll
+C:\Users\Alima\Documents\GitHub\csharp-projects-and-homeworks\SP week 3 homework\SP week 3 homework\obj\Debug\netcoreapp3.1\SP week 3 homework.pdb
+C:\Users\Alima\Documents\GitHub\csharp-projects-and-homeworks\SP week 3 homework\SP week 3 homework\obj\Debug\netcoreapp3.1\SP week 3 homework.genruntimeconfig.cache

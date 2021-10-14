@@ -10,18 +10,15 @@ namespace SP_week_3_homework
         {
             Console.Title = "W3 Homework";
 
-            // let user chose what they want to sort by maybe lenght aswell as underscores 
+            // The question is : given a list of usernames use the where functionto filter it to create a collection containing only usernames that contain_an_underscore.
 
-            // The question is : given a list of usernames use the where functionto filter it gto create a collection containing only usernames that contain_an_underscore.
-
-            List<string> userNames = new List<string>(); // create a list to store the usernames 
-
-            // hardcode some random usernames into the list some of which have under_scores -  this can be improved later on 
+            // Essential task 1
+            List<string> userNames = new List<string>();
 
             userNames.Add("Ali_Malik");
             userNames.Add("BigMan");
             userNames.Add("fezpunch");
-            userNames.Add("whackmuumuu");
+            userNames.Add("whackmuumuuwrretdg");
             userNames.Add("reevesalesman");
             userNames.Add("lecturersnappy");
             userNames.Add("food_eat");
@@ -29,37 +26,52 @@ namespace SP_week_3_homework
             userNames.Add("playerkikllal");
             userNames.Add("ManGracie");
 
-            // now we are going to ask the user what they want to do this can be an extra feature
-
-            List<string> guests = new List<string>();
-
-
-
-            guests.Add("Jackie");
-            guests.Add("Chris");
-            guests.Add("Jet");
-            guests.Add("Steve");
-
             while (true)
             {
                 Console.WriteLine("press (1) to display all the usernames");
-                Console.WriteLine("2) Add to guest list");
-                Console.WriteLine("3) Remove from guest list");
-                Console.WriteLine("4) Display number of guests");
-                Console.WriteLine("Q) Quit");
+                Console.WriteLine("press (2) to see which username is the longest");
+                Console.WriteLine("press (3) to see which usernames have under_scores");
+                Console.WriteLine("press (4) to see the first 3 usernames we have stored");
+                Console.WriteLine("press (5) to ");
 
-                Console.Write("Enter your choice: ");
-                string choice = Console.ReadLine().ToLower();
+                int answer = int.Parse(Console.ReadLine());
 
-                if (choice == "q") break;
-
-                if (choice == "1") Display();
-                else if (choice == "2") Add();
-                else if (choice == "3") Remove();
-                else if (choice == "4") Count();
-                else Console.WriteLine("Unknown option.");
+                // filter 1
+                if (answer == 1)
+                {
+                    foreach (string usernm in userNames)
+                    {
+                        Console.WriteLine("These are all the usernames we currently have stored " + usernm);
+                    }
+                }
+                 // Filter 2 
+                 if(answer == 2)
+                {
+                    string longest = userNames.OrderByDescending(l => l.Length).First();
+                    Console.WriteLine("The longest username we could find was " + longest);
+                }
+                 // Filter 3
+                 if(answer == 3)
+                {
+                    string subString = "_";
+                    foreach (string u in userNames)
+                    {
+                        if (u.Contains(subString))
+                        {
+                            Console.WriteLine(u);
+                        }
+                    }
+                }
+                 if(answer == 4)
+                {
+                    IEnumerable<string> first3 = userNames.Take(3);
+                    Console.WriteLine(first3);
+                }
 
             }
 
-        }
+
+    
+    }   }
+
 }

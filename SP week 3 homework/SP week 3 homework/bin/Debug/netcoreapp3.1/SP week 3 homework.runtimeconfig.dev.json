@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Alima\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Alima\\.nuget\\packages"
+    ]
+  }
+}

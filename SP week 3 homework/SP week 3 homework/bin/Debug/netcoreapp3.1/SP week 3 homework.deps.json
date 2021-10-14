@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SP week 3 homework/1.0.0": {
+        "runtime": {
+          "SP week 3 homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SP week 3 homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
