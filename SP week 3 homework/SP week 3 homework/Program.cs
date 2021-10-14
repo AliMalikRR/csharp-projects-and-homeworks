@@ -13,6 +13,7 @@ namespace SP_week_3_homework
             // The question is : given a list of usernames use the where functionto filter it to create a collection containing only usernames that contain_an_underscore.
 
             // Essential task 1
+
             List<string> userNames = new List<string>();
 
             userNames.Add("Ali_Malik");
@@ -39,7 +40,6 @@ namespace SP_week_3_homework
                 Console.WriteLine("press (3) to see which usernames have under_scores");
                 Console.WriteLine("press (4) to see the first 3 usernames");
                 Console.WriteLine("press (5) to see the last 3 usernames");
-                Console.WriteLine("press (6) to see which usernames contain numbers");
 
                 int answer = int.Parse(Console.ReadLine());
 
@@ -84,10 +84,6 @@ namespace SP_week_3_homework
                     {
                         Console.WriteLine(s);
                     }
-                }
-                 if (answer == 6)
-                {
-
                 }
 
             }

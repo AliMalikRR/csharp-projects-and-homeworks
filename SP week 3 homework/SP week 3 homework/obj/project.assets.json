@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alima\\Documents\\GitHub\\csharp-projects-and-homeworks\\SP week 3 homework\\SP week 3 homework\\SP week 3 homework.csproj",
+      "projectUniqueName": "C:\\csharp-projects-and-homeworks\\SP week 3 homework\\SP week 3 homework\\SP week 3 homework.csproj",
       "projectName": "SP week 3 homework",
-      "projectPath": "C:\\Users\\Alima\\Documents\\GitHub\\csharp-projects-and-homeworks\\SP week 3 homework\\SP week 3 homework\\SP week 3 homework.csproj",
+      "projectPath": "C:\\csharp-projects-and-homeworks\\SP week 3 homework\\SP week 3 homework\\SP week 3 homework.csproj",
       "packagesPath": "C:\\Users\\Alima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alima\\Documents\\GitHub\\csharp-projects-and-homeworks\\SP week 3 homework\\SP week 3 homework\\obj\\",
+      "outputPath": "C:\\csharp-projects-and-homeworks\\SP week 3 homework\\SP week 3 homework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alima\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
