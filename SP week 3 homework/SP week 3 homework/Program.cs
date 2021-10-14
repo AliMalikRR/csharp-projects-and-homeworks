@@ -19,20 +19,27 @@ namespace SP_week_3_homework
             userNames.Add("BigMan");
             userNames.Add("fezpunch");
             userNames.Add("whackmuumuuwrretdg");
-            userNames.Add("reevesalesman");
+            userNames.Add("reevesalesm2323an");
             userNames.Add("lecturersnappy");
             userNames.Add("food_eat");
             userNames.Add("tractor_trac");
             userNames.Add("playerkikllal");
             userNames.Add("ManGracie");
+            userNames.Add("shheh734231");
+            userNames.Add("bldbj4");
+            userNames.Add("wegureerth8");
+            userNames.Add("afsgsgsgsgg");
+            userNames.Add("hgjn");
+            userNames.Add("fwtw4y");
 
             while (true)
             {
                 Console.WriteLine("press (1) to display all the usernames");
                 Console.WriteLine("press (2) to see which username is the longest");
                 Console.WriteLine("press (3) to see which usernames have under_scores");
-                Console.WriteLine("press (4) to see the first 3 usernames we have stored");
-                Console.WriteLine("press (5) to ");
+                Console.WriteLine("press (4) to see the first 3 usernames");
+                Console.WriteLine("press (5) to see the last 3 usernames");
+                Console.WriteLine("press (6) to see which usernames contain numbers");
 
                 int answer = int.Parse(Console.ReadLine());
 
@@ -41,7 +48,7 @@ namespace SP_week_3_homework
                 {
                     foreach (string usernm in userNames)
                     {
-                        Console.WriteLine("These are all the usernames we currently have stored " + usernm);
+                        Console.WriteLine(usernm);
                     }
                 }
                  // Filter 2 
@@ -65,7 +72,22 @@ namespace SP_week_3_homework
                  if(answer == 4)
                 {
                     IEnumerable<string> first3 = userNames.Take(3);
-                    Console.WriteLine(first3);
+                    foreach (string s in first3)
+                    {
+                        Console.WriteLine(s);
+                    }
+                }
+                 if(answer == 5)
+                {
+                    IEnumerable<string> last3 = userNames.TakeLast(3);
+                    foreach (string s in last3)
+                    {
+                        Console.WriteLine(s);
+                    }
+                }
+                 if (answer == 6)
+                {
+
                 }
 
             }
