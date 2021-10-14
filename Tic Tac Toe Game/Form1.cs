@@ -33,5 +33,15 @@ namespace Tic_Tac_Toe_Game
                 newGame.ShowDialog();
             Visible = true;
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
