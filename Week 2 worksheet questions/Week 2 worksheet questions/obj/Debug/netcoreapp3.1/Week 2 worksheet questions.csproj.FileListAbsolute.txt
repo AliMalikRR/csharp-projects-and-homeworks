@@ -1,0 +1,14 @@
+C:\Users\Alima\source\repos\Week 2 worksheet questions\Week 2 worksheet questions\bin\Debug\netcoreapp3.1\Week 2 worksheet questions.exe
+C:\Users\Alima\source\repos\Week 2 worksheet questions\Week 2 worksheet questions\bin\Debug\netcoreapp3.1\Week 2 worksheet questions.deps.json
+C:\Users\Alima\source\repos\Week 2 worksheet questions\Week 2 worksheet questions\bin\Debug\netcoreapp3.1\Week 2 worksheet questions.runtimeconfig.json
+C:\Users\Alima\source\repos\Week 2 worksheet questions\Week 2 worksheet questions\bin\Debug\netcoreapp3.1\Week 2 worksheet questions.runtimeconfig.dev.json
+C:\Users\Alima\source\repos\Week 2 worksheet questions\Week 2 worksheet questions\bin\Debug\netcoreapp3.1\Week 2 worksheet questions.dll
+C:\Users\Alima\source\repos\Week 2 worksheet questions\Week 2 worksheet questions\bin\Debug\netcoreapp3.1\Week 2 worksheet questions.pdb
+C:\Users\Alima\source\repos\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.csproj.AssemblyReference.cache
+C:\Users\Alima\source\repos\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alima\source\repos\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.AssemblyInfoInputs.cache
+C:\Users\Alima\source\repos\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.AssemblyInfo.cs
+C:\Users\Alima\source\repos\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.csproj.CoreCompileInputs.cache
+C:\Users\Alima\source\repos\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.dll
+C:\Users\Alima\source\repos\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.pdb
+C:\Users\Alima\source\repos\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.genruntimeconfig.cache
