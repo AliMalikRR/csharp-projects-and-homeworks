@@ -40,6 +40,8 @@ namespace SP_week_3_homework
                 Console.WriteLine("press (3) to see which usernames have under_scores");
                 Console.WriteLine("press (4) to see the first 3 usernames");
                 Console.WriteLine("press (5) to see the last 3 usernames");
+                Console.WriteLine("press (6) to reverse all the usernames");
+
 
                 int answer = int.Parse(Console.ReadLine());
 
@@ -85,11 +87,39 @@ namespace SP_week_3_homework
                         Console.WriteLine(s);
                     }
                 }
-
+                 if(answer == 6)
+                {
+                    Console.WriteLine(reverse("Ali_Malik"));
+                    Console.WriteLine(reverse("BigMan"));
+                    Console.WriteLine(reverse("fezpunch"));
+                    Console.WriteLine(reverse("whackmuumuuwrretdg"));
+                    Console.WriteLine(reverse("reevesalesm2323an"));
+                    Console.WriteLine(reverse("lecturersnappy"));
+                    Console.WriteLine(reverse("food_eat"));
+                    Console.WriteLine(reverse("tractor_trac"));
+                    Console.WriteLine(reverse("playerkikllal"));
+                    Console.WriteLine(reverse("ManGracie"));
+                    Console.WriteLine(reverse("shheh734231"));
+                    Console.WriteLine(reverse("bldbj4"));
+                    Console.WriteLine(reverse("wegureerth8"));
+                    Console.WriteLine(reverse("afsgsgsgsgg"));
+                    Console.WriteLine(reverse("bldbj4"));
+                    Console.WriteLine(reverse("hgjn"));
+                    Console.WriteLine(reverse("fwtw4y"));
+                }
+            }
+            static string reverse(string input)
+            {
+                if (string.IsNullOrEmpty(input))
+                {
+                    return input;
+                }
+                char[] arr = input.ToCharArray();
+                Array.Reverse(arr);
+                return new string(arr);
             }
 
 
-    
-    }   }
+        }   }
 
 }
