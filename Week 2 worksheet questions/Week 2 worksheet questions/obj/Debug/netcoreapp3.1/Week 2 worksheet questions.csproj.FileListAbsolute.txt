@@ -12,3 +12,17 @@ C:\Users\Alima\source\repos\Week 2 worksheet questions\Week 2 worksheet question
 C:\Users\Alima\source\repos\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.dll
 C:\Users\Alima\source\repos\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.pdb
 C:\Users\Alima\source\repos\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.genruntimeconfig.cache
+C:\csharp-projects-and-homeworks\Week 2 worksheet questions\Week 2 worksheet questions\bin\Debug\netcoreapp3.1\Week 2 worksheet questions.exe
+C:\csharp-projects-and-homeworks\Week 2 worksheet questions\Week 2 worksheet questions\bin\Debug\netcoreapp3.1\Week 2 worksheet questions.deps.json
+C:\csharp-projects-and-homeworks\Week 2 worksheet questions\Week 2 worksheet questions\bin\Debug\netcoreapp3.1\Week 2 worksheet questions.runtimeconfig.json
+C:\csharp-projects-and-homeworks\Week 2 worksheet questions\Week 2 worksheet questions\bin\Debug\netcoreapp3.1\Week 2 worksheet questions.runtimeconfig.dev.json
+C:\csharp-projects-and-homeworks\Week 2 worksheet questions\Week 2 worksheet questions\bin\Debug\netcoreapp3.1\Week 2 worksheet questions.dll
+C:\csharp-projects-and-homeworks\Week 2 worksheet questions\Week 2 worksheet questions\bin\Debug\netcoreapp3.1\Week 2 worksheet questions.pdb
+C:\csharp-projects-and-homeworks\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.csproj.AssemblyReference.cache
+C:\csharp-projects-and-homeworks\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp-projects-and-homeworks\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.AssemblyInfoInputs.cache
+C:\csharp-projects-and-homeworks\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.AssemblyInfo.cs
+C:\csharp-projects-and-homeworks\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.csproj.CoreCompileInputs.cache
+C:\csharp-projects-and-homeworks\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.dll
+C:\csharp-projects-and-homeworks\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.pdb
+C:\csharp-projects-and-homeworks\Week 2 worksheet questions\Week 2 worksheet questions\obj\Debug\netcoreapp3.1\Week 2 worksheet questions.genruntimeconfig.cache

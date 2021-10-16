@@ -11,6 +11,8 @@ namespace Week_2_worksheet_questions
             //essential1();
             //essential2();
             //essential3();
+            //essential4();
+            essential5();
         }
         public static void essential1()
         {
@@ -126,8 +128,88 @@ namespace Week_2_worksheet_questions
         }
         public static void essential4()
         {
+            List<int> numbers = new List<int> { 1, 324, 546, 345, 34, 5, 36, 35, 363 };
 
+            // removes the lowest 3 values
+            numbers.Remove(numbers.Min());
+            numbers.Remove(numbers.Min());
+            numbers.Remove(numbers.Min());
+
+            // removes the highest 3 values
+            numbers.Remove(numbers.Max());
+            numbers.Remove(numbers.Max());
+            numbers.Remove(numbers.Max());
+
+            foreach (int number in numbers)
+            {
+                Console.WriteLine(number + " ");
+            }
         }
 
+        public static void essential5()
+        {
+            Dictionary<string, Car> cars = new Dictionary<string, Car>();
+
+            {
+                Car c = new Car();
+                c.reg = "AB01 QWE";
+                c.make = "Ford";
+                c.model = "Fiesta";
+                cars.Add(c.reg, c);
+            }
+            {
+                Car c = new Car();
+                c.reg = "BC02 WER";
+                c.make = "Nissan";
+                c.model = "Leaf";
+                cars.Add(c.reg, c);
+            }
+
+            Console.WriteLine("Enter registration");
+            string reg = Console.ReadLine();
+
+            if (cars.ContainsKey(reg))
+            {
+                Car c = cars[reg];
+                Console.WriteLine("Details for " + reg);
+                Console.WriteLine("Make:  " + c.make);
+                Console.WriteLine("Model: " + c.model);
+            }
+            else
+            {
+                Console.WriteLine("Car not on record :( ");
+            }
+        }
+        public class Car
+        {
+            public string reg;
+            public string make;
+            public string model;
+        }
+        public static void essential6()
+        {
+            Dictionary<string, int> votes = new Dictionary<string, int>();
+
+            while (true)
+            {
+                Console.Clear();
+                foreach (var pair in votes)
+                {
+                    Console.WriteLine(pair.Key + " has " + pair.Value + " votes");
+                }
+
+                Console.Write("\nWhat would you like to do? ");
+                string choice = Console.ReadLine();
+
+                if (votes.ContainsKey(choice))
+                {
+                    votes[choice] += 1;
+                }
+                else
+                {
+                    votes.Add(choice, 1);
+                }
+            }
+        }
     }
 }

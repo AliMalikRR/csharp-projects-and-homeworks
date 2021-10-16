@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alima\\source\\repos\\Week 2 worksheet questions\\Week 2 worksheet questions\\Week 2 worksheet questions.csproj": {}
+    "C:\\csharp-projects-and-homeworks\\Week 2 worksheet questions\\Week 2 worksheet questions\\Week 2 worksheet questions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alima\\source\\repos\\Week 2 worksheet questions\\Week 2 worksheet questions\\Week 2 worksheet questions.csproj": {
+    "C:\\csharp-projects-and-homeworks\\Week 2 worksheet questions\\Week 2 worksheet questions\\Week 2 worksheet questions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alima\\source\\repos\\Week 2 worksheet questions\\Week 2 worksheet questions\\Week 2 worksheet questions.csproj",
+        "projectUniqueName": "C:\\csharp-projects-and-homeworks\\Week 2 worksheet questions\\Week 2 worksheet questions\\Week 2 worksheet questions.csproj",
         "projectName": "Week 2 worksheet questions",
-        "projectPath": "C:\\Users\\Alima\\source\\repos\\Week 2 worksheet questions\\Week 2 worksheet questions\\Week 2 worksheet questions.csproj",
+        "projectPath": "C:\\csharp-projects-and-homeworks\\Week 2 worksheet questions\\Week 2 worksheet questions\\Week 2 worksheet questions.csproj",
         "packagesPath": "C:\\Users\\Alima\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alima\\source\\repos\\Week 2 worksheet questions\\Week 2 worksheet questions\\obj\\",
+        "outputPath": "C:\\csharp-projects-and-homeworks\\Week 2 worksheet questions\\Week 2 worksheet questions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alima\\AppData\\Roaming\\NuGet\\NuGet.Config",
