@@ -42,7 +42,6 @@ namespace SP_week_3_homework
                 Console.WriteLine("press (5) to see the last 3 usernames");
                 Console.WriteLine("press (6) to reverse all the usernames");
 
-
                 int answer = int.Parse(Console.ReadLine());
 
                 // filter 1
