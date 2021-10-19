@@ -119,7 +119,6 @@ namespace SP_week_3_homework
                 return new string(arr);
             }
 
-
         }   }
 
 }
