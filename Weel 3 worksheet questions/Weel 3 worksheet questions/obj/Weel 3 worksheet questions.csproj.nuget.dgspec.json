@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alima\\source\\repos\\Weel 3 worksheet questions\\Weel 3 worksheet questions\\Weel 3 worksheet questions.csproj": {}
+    "C:\\Users\\Alima\\Documents\\GitHub\\csharp-projects-and-homeworks\\Weel 3 worksheet questions\\Weel 3 worksheet questions\\Weel 3 worksheet questions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alima\\source\\repos\\Weel 3 worksheet questions\\Weel 3 worksheet questions\\Weel 3 worksheet questions.csproj": {
+    "C:\\Users\\Alima\\Documents\\GitHub\\csharp-projects-and-homeworks\\Weel 3 worksheet questions\\Weel 3 worksheet questions\\Weel 3 worksheet questions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alima\\source\\repos\\Weel 3 worksheet questions\\Weel 3 worksheet questions\\Weel 3 worksheet questions.csproj",
+        "projectUniqueName": "C:\\Users\\Alima\\Documents\\GitHub\\csharp-projects-and-homeworks\\Weel 3 worksheet questions\\Weel 3 worksheet questions\\Weel 3 worksheet questions.csproj",
         "projectName": "Weel 3 worksheet questions",
-        "projectPath": "C:\\Users\\Alima\\source\\repos\\Weel 3 worksheet questions\\Weel 3 worksheet questions\\Weel 3 worksheet questions.csproj",
+        "projectPath": "C:\\Users\\Alima\\Documents\\GitHub\\csharp-projects-and-homeworks\\Weel 3 worksheet questions\\Weel 3 worksheet questions\\Weel 3 worksheet questions.csproj",
         "packagesPath": "C:\\Users\\Alima\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alima\\source\\repos\\Weel 3 worksheet questions\\Weel 3 worksheet questions\\obj\\",
+        "outputPath": "C:\\Users\\Alima\\Documents\\GitHub\\csharp-projects-and-homeworks\\Weel 3 worksheet questions\\Weel 3 worksheet questions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alima\\AppData\\Roaming\\NuGet\\NuGet.Config",
