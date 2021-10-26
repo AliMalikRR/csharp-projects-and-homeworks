@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alima\\Documents\\GitHub\\csharp-projects-and-homeworks\\SP week 3 homework\\SP week 3 homework\\SP week 3 homework.csproj",
-      "projectName": "SP week 3 homework",
-      "projectPath": "C:\\Users\\Alima\\Documents\\GitHub\\csharp-projects-and-homeworks\\SP week 3 homework\\SP week 3 homework\\SP week 3 homework.csproj",
+      "projectUniqueName": "C:\\Users\\Alima\\Documents\\GitHub\\csharp-projects-and-homeworks\\Weel 3 worksheet questions\\Weel 3 worksheet questions\\Weel 3 worksheet questions.csproj",
+      "projectName": "Weel 3 worksheet questions",
+      "projectPath": "C:\\Users\\Alima\\Documents\\GitHub\\csharp-projects-and-homeworks\\Weel 3 worksheet questions\\Weel 3 worksheet questions\\Weel 3 worksheet questions.csproj",
       "packagesPath": "C:\\Users\\Alima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alima\\Documents\\GitHub\\csharp-projects-and-homeworks\\SP week 3 homework\\SP week 3 homework\\obj\\",
+      "outputPath": "C:\\Users\\Alima\\Documents\\GitHub\\csharp-projects-and-homeworks\\Weel 3 worksheet questions\\Weel 3 worksheet questions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alima\\AppData\\Roaming\\NuGet\\NuGet.Config",
