@@ -27,6 +27,7 @@ namespace homework2
                 string op = args[1];
                 try
                 {
+                    // if they enter a string in postiion 0 or 2 there will be an error as you cant convert a string to a float so we move into the catch block.
                     n1 = Convert.ToSingle(args[0]);
                     n2 = Convert.ToSingle(args[2]);
                 }
