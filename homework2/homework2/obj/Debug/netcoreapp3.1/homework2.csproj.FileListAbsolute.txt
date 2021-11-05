@@ -11,3 +11,17 @@ D:\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.dll
 D:\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.pdb
 D:\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.genruntimeconfig.cache
 D:\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.csprojAssemblyReference.cache
+C:\csharp-projects-and-homeworks\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.exe
+C:\csharp-projects-and-homeworks\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.deps.json
+C:\csharp-projects-and-homeworks\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.runtimeconfig.json
+C:\csharp-projects-and-homeworks\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.runtimeconfig.dev.json
+C:\csharp-projects-and-homeworks\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.dll
+C:\csharp-projects-and-homeworks\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.pdb
+C:\csharp-projects-and-homeworks\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.csproj.AssemblyReference.cache
+C:\csharp-projects-and-homeworks\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp-projects-and-homeworks\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.AssemblyInfoInputs.cache
+C:\csharp-projects-and-homeworks\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.AssemblyInfo.cs
+C:\csharp-projects-and-homeworks\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.csproj.CoreCompileInputs.cache
+C:\csharp-projects-and-homeworks\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.dll
+C:\csharp-projects-and-homeworks\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.pdb
+C:\csharp-projects-and-homeworks\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.genruntimeconfig.cache
