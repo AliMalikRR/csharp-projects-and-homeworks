@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alima\\source\\repos\\homework2\\homework2\\homework2.csproj",
+      "projectUniqueName": "C:\\csharp-projects-and-homeworks\\homework2\\homework2\\homework2.csproj",
       "projectName": "homework2",
-      "projectPath": "C:\\Users\\Alima\\source\\repos\\homework2\\homework2\\homework2.csproj",
+      "projectPath": "C:\\csharp-projects-and-homeworks\\homework2\\homework2\\homework2.csproj",
       "packagesPath": "C:\\Users\\Alima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alima\\source\\repos\\homework2\\homework2\\obj\\",
+      "outputPath": "C:\\csharp-projects-and-homeworks\\homework2\\homework2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alima\\AppData\\Roaming\\NuGet\\NuGet.Config",

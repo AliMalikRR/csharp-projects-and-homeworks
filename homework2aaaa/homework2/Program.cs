@@ -16,15 +16,13 @@ namespace homework2
         static void Main(string[] args)
         {
             // Homework 2 
-            // todo: do not allow users to enter decimal point numbers and then make a nice error message for that. Thats about it and just try make it more robust so i cant be crashed.
-
             if (args.Length == 0)
             {
                 consoleColour("ERROR, you did not enter anything", ConsoleColor.Red);
             }
             else if (args.Length == 3)
             {
-                float n1 = 0; // we set our numbers to 0 so theres a value for them even if our try catch block fails
+                float n1 = 0; // we set our numbers to 0 so there a value for them even if our try catch block fails
                 float n2 = 0;
                 string op = args[1];
                 try
@@ -35,7 +33,7 @@ namespace homework2
                 catch
                 {
                     consoleColour("ERROR, you can only enter numbers", ConsoleColor.Red);
-                    Environment.Exit(0); // close the program if we hit this catch cause there no point of carrying on at that point
+                    Environment.Exit(0); // close the program if we hit this catch cause there no point of carrying on
                 }
                 if (args[1] == "+")
                 {

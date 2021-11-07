@@ -25,17 +25,3 @@ C:\csharp-projects-and-homeworks\homework2\homework2\obj\Debug\netcoreapp3.1\hom
 C:\csharp-projects-and-homeworks\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.dll
 C:\csharp-projects-and-homeworks\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.pdb
 C:\csharp-projects-and-homeworks\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.genruntimeconfig.cache
-C:\Users\Alima\source\repos\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.exe
-C:\Users\Alima\source\repos\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.deps.json
-C:\Users\Alima\source\repos\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.runtimeconfig.json
-C:\Users\Alima\source\repos\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.runtimeconfig.dev.json
-C:\Users\Alima\source\repos\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.dll
-C:\Users\Alima\source\repos\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.pdb
-C:\Users\Alima\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.csproj.AssemblyReference.cache
-C:\Users\Alima\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Alima\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.AssemblyInfoInputs.cache
-C:\Users\Alima\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.AssemblyInfo.cs
-C:\Users\Alima\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.csproj.CoreCompileInputs.cache
-C:\Users\Alima\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.dll
-C:\Users\Alima\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.pdb
-C:\Users\Alima\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.genruntimeconfig.cache
