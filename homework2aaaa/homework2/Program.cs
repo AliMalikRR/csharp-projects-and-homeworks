@@ -56,9 +56,15 @@ namespace homework2
                     consoleColour("ERROR, unknow operator: ", ConsoleColor.Red);
                     consoleColour("try use: '+', '-', 'x', '/'", ConsoleColor.Green);
                 }
-                else if (args[0].Contains(".") || args[2].Contains("."))
+                // check if there is a decimal number entered anywhere in the porgram if so give them an error message.
+                string substring = ".";
+                foreach (string input in args)
                 {
-                    consoleColour("ERROR, Please use whole numbers only :)", ConsoleColor.Red);
+                    if (input.Contains(substring))
+                    {
+                        consoleColour("ERROR, Please use whole numbers only :)", ConsoleColor.Red);
+                        consoleColour("Try use a whole number such as 10 or 5", ConsoleColor.Green);
+                    }
                 }
             }
             else if(args.Length != 3)
