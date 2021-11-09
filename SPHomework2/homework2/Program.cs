@@ -62,7 +62,7 @@ namespace homework2
                 {
                     if (input.Contains(substring))
                     {
-                        consoleColour("ERROR, You cannot use decimals", ConsoleColor.Red);
+                        consoleColour("ERROR, You cannot use decimals, try using whole numbers instead :)", ConsoleColor.Red);
                         consoleColour("Try use a whole number such as 10 or 5", ConsoleColor.Green);
                     }
                 }
