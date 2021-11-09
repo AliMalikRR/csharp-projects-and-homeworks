@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\csharp-projects-and-homeworks\\homework2\\homework2\\homework2.csproj",
+      "projectUniqueName": "C:\\Users\\Alima\\Documents\\GitHub\\csharp-projects-and-homeworks\\homework2aaaa\\homework2\\homework2.csproj",
       "projectName": "homework2",
-      "projectPath": "C:\\csharp-projects-and-homeworks\\homework2\\homework2\\homework2.csproj",
+      "projectPath": "C:\\Users\\Alima\\Documents\\GitHub\\csharp-projects-and-homeworks\\homework2aaaa\\homework2\\homework2.csproj",
       "packagesPath": "C:\\Users\\Alima\\.nuget\\packages\\",
-      "outputPath": "C:\\csharp-projects-and-homeworks\\homework2\\homework2\\obj\\",
+      "outputPath": "C:\\Users\\Alima\\Documents\\GitHub\\csharp-projects-and-homeworks\\homework2aaaa\\homework2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alima\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,7 +32,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -44,7 +43,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -60,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

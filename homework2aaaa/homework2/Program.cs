@@ -56,6 +56,10 @@ namespace homework2
                     consoleColour("ERROR, unknow operator: ", ConsoleColor.Red);
                     consoleColour("try use: '+', '-', 'x', '/'", ConsoleColor.Green);
                 }
+                else if (args[0].Contains(".") || args[2].Contains("."))
+                {
+                    consoleColour("ERROR, Please use whole numbers only :)", ConsoleColor.Red);
+                }
             }
             else if(args.Length != 3)
             {
